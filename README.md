@@ -1,6 +1,5 @@
 # Hotel-Management-System-with-admin-page-using-php-
-Hospital Management System using MySQL, Php and Bootstrap
-
+Hotel Management System using MySQL, Php.
 ## Prerequisites
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Brackets Text)
