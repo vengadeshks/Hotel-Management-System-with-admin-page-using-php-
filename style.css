@@ -1,0 +1,195 @@
+
+body
+{
+    margin:0px;
+    background-size:cover; 
+    background-image:linear-gradient(white,#fceed1);
+    overflow-y: scroll;
+        
+}
+
+.home-body-nav {
+    background:#2d545e;
+    overflow:hidden;
+}
+
+
+.home-body-nav a{ 
+
+     float: left;
+     color: #f2f2f2;
+     text-align: center;
+     padding: 20px 20px 20px;
+     text-decoration: none ;
+     font-size:18px;
+}
+     
+.dropdown{
+  float: left;
+     color: #f2f2f2;
+     text-align: center;
+     padding: 20px 20px 20px;
+     text-decoration: none ;
+     font-size:18px;
+}
+
+.home-body-nav a:hover{
+    background: #ddd;
+    color: black;  
+}
+.home-body-nav #first{
+
+      background:skyblue;
+      color: black;  
+}
+
+.home-image
+{
+    margin-left:3px;
+    margin-top:3px;
+    border:1px solid black;
+    padding:5px 5px 5px 5px;
+    background:gray;
+    
+}
+
+.split-left{
+
+    width: 60%;
+    left=0;
+   position:absolute;
+    overflow-x: hidden;
+}
+.split-right
+{
+    
+  width: 40%;
+  right:0;
+     position:absolute;
+    overflow-x: hidden;
+    padding-right: 20px;
+ 
+}
+.list{
+    font-size:30px;
+
+}
+
+.intro
+{
+    background: lightgray;
+    font-size: 20px;
+    padding :10px 30px 10px 30px;
+     box-shadow: 0 0 10px #999999;
+    margin:0px  10px;
+    
+}
+.black{
+    background: black;
+    overflow-x:hidden;
+    color:white;
+    font-size:20px;
+    display: flex;
+    margin:30px;
+    
+    
+}
+
+.home-book
+{
+    padding:5px  60px 1px 80px;
+    border: 1px solid white;
+    overflow-x:hidden;
+    
+}
+.hotel-image{
+    padding:30p;
+    margin:1px;
+     box-shadow: 0 0 20px #999999
+
+}
+.hotel-image-detail{
+  
+    width:380px;
+    height:300px;
+   
+    margin:30px;
+    padding:10px 6px;
+    
+}
+.three
+{
+    display: flex;
+}
+.hotel-image-detail img{
+   
+    border:1px solid black;
+    box-shadow:  0 0 20px 0 gray;
+    
+
+}
+#slide{
+border:1px solid black ;
+ box-shadow: 0 0 20px #999999;
+
+}
+
+.contact {
+    
+     padding:600px 60px 10px 60px;
+    
+}
+.vertical { 
+            border-left: 1px solid black; 
+           margin-top:600px;
+            height: 250px; 
+            position:absolute; 
+            left: 52%; 
+        } 
+.dest{
+     padding:600px 60px 10px 60px;
+     margin-left: 250px;
+}
+.last{
+    display:flex;
+}
+.contact-box{
+            width:580px;
+            height:420px;
+            position:relative;
+            margin:6% auto;
+            background: white;
+            box-shadow: 0 0 10px black;
+            padding: 5px;
+            border-radius:20px;
+            overflow: hidden;
+
+}
+ .input-field{
+
+            padding:10px 10px;
+            margin:5px 50;
+            width :70%;
+            border-bottom: 1px solid #999;
+            border-top:0;
+             border-right:0;
+             border-left:0;
+            background: transparent;
+            outline:none;
+         
+            
+        }
+ .class-btn{
+                
+            padding:10px 30px;
+            width:40%;
+            margin:auto;
+            display:block;
+            outline:none;
+            border:0;
+            background:linear-gradient(to right,skyblue,skyblue);
+            border-radius: 30px;
+            cursor: pointer;  
+}
+
+  
