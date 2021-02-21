@@ -21,7 +21,7 @@ Hotel Management System using MySQL, Php.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'hotelmanagement'
 7. Import the file 'hotelmanagement.sql' inside your newly created database and click ok.
-8. Open a new tab and type 'localhost/foldername' in the url of your browser.
+8. Open a new tab and type 'localhost/new' in the url of your browser.
 10. Hurray! That's it!
     
 ### SOFTWARES USED
