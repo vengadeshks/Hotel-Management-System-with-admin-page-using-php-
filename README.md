@@ -1,5 +1,5 @@
 # Hotel-Management-System-with-admin-page-using-php-
-Hotel Management System using MySQL, Php.
+A hotel management system  in which client can perform operations such as booking a room, event, marriage hall and either log in with their existing account or as a guest. It is possible for the clients to cancel the rooms that they had booked and the admin has control over the rooms allotted to the clients and can also manage client requests for rooms, event halls. From the admin side, admin can add newly developed rooms to the existing rooms in the hotel
 ## Prerequisites
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Brackets Text Editor)
