@@ -1,4 +1,7 @@
-# Hotel-Management-System-with-admin-page-using-php- live demo :!(https://hotel-pacific.000webhostapp.com/)
+# Hotel-Management-System-with-admin-page-using-php- 
+ **Visit** : [live demo](https://hotel-pacific.000webhostapp.com/) 
+ <br>
+ 
 A hotel management system  in which client can perform operations such as booking a room, event, marriage hall and either log in with their existing account or as a guest. It is possible for the clients to cancel the rooms that they had booked and the admin has control over the rooms allotted to the clients and can also manage client requests for rooms, event halls. From the admin side, admin can add newly developed rooms to the existing rooms in the hotel
 ## Prerequisites
 1. Install XAMPP web server
